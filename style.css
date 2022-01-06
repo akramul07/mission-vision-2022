@@ -115,13 +115,13 @@ h1 span {
 /* third section start */
 
 .third-sec-div1 {
-
-    border: 1px solid;
+    padding: 20px;
+    
 }
 
 .third-sec-div2 {
     width: 50%;
-    border: 1px solid;
+    
 }
 
 .third-sec-div1 img {
