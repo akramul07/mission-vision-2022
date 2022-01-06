@@ -1,6 +1,7 @@
 body p {
     font-family: 'Palanquin', sans-serif;
     text-align: justify;
+
 }
 
 .first-section {
@@ -46,4 +47,119 @@ h1 span {
     color: rgb(4, 0, 7);
     padding: 10px 20px;
     border-radius: 25px;
+}
+
+/* second section start */
+
+
+.second-section h1 {
+    font-family: 'Alata', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.parent1 {
+    margin: 10px 104px;
+
+    width: 90%;
+
+}
+
+.second-sec-div1 {
+    height: 500px;
+    width: 30%;
+    background-color: rgba(197, 241, 73, 0.493);
+    margin: 14px;
+    float: left;
+    border-radius: 20px;
+}
+
+.second-sec-div2 {
+    height: 500px;
+    width: 30%;
+    background-color: rgba(212, 212, 146, 0.562);
+    margin: 10px;
+    float: left;
+    border-radius: 20px;
+}
+
+.second-sec-div3 {
+    height: 500px;
+    width: 30%;
+    background-color: rgba(177, 159, 201, 0.836);
+    margin: 10px;
+    float: left;
+    border-radius: 20px;
+}
+
+.parent1 h3 {
+    font-family: 'Palanquin', sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.parent1 img {
+    height: 250px;
+    padding-left: 25%;
+}
+
+.parent1 p {
+    padding: 10px 20px;
+    text-align: justify;
+}
+
+/* third section start */
+
+.third-sec-div1 {
+
+    border: 1px solid;
+}
+
+.third-sec-div2 {
+    width: 50%;
+    border: 1px solid;
+}
+
+.third-sec-div1 img {
+    height: 200px;
+    margin-left: 0px;
+}
+
+/* fourth section start */
+.fourth-sec-parent {
+    display: flex;
+    padding-top: 100px;
+}
+
+.fourth-sec-div1 {
+    height: 400px;
+    width: 50%;
+    padding: 100px 50px 0px 104px;
+
+
+}
+
+.fourth-sec-div2 {
+    height: 400px;
+    width: 50%;
+    padding-top: 50px;
+    padding-left: 25%;
+
+}
+
+.fourth-sec-div2 img {
+    height: 500px;
+    width: auto;
+    padding-right: 197px;
+
+}
+
+.fourth-sec-div1 h1 {
+    font-family: 'Palanquin', sans-serif;
+    text-align: left;
+    font-size: 50px;
+    font-weight: 700;
 }
