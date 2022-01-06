@@ -1,6 +1,8 @@
 body p {
     font-family: 'Palanquin', sans-serif;
     text-align: justify;
+    margin: 0;
+    padding: 0;
 
 }
 
@@ -129,6 +131,7 @@ h1 span {
 }
 
 /* fourth section start */
+
 .fourth-sec-parent {
     display: flex;
     padding-top: 100px;
@@ -161,5 +164,31 @@ h1 span {
     font-family: 'Palanquin', sans-serif;
     text-align: left;
     font-size: 50px;
+    font-weight: 700;
+}
+
+/* footer section start */
+
+footer {
+    height: 200px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+    padding-top: 0px
+}
+
+footer span {
+    color: tomato;
+}
+
+footer h2 {
+    font-family: 'Lobster Two', cursive;
+    padding-top: 50px;
     font-weight: 700;
 }
