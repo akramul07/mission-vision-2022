@@ -1,0 +1,49 @@
+body p {
+    font-family: 'Palanquin', sans-serif;
+    text-align: justify;
+}
+
+.first-section {
+    display: flex;
+}
+
+.first-section h1 {
+    font-family: 'DM Serif Display';
+    font-weight: 700;
+    font-size: 50px;
+    border-left: 3px solid rgb(149, 235, 0.774);
+    padding-left: 10px;
+}
+
+h1 span {
+    color: rgb(192, 9, 247);
+}
+
+.section1-div2 img {
+    height: 400px;
+    width: auto;
+    padding-top: 50px;
+    padding-left: 40%;
+}
+
+.section1-div1 {
+    width: 45%;
+    padding: 5px 10px;
+    margin-left: 5%;
+}
+
+.section1-div2 {
+    width: 45%;
+    padding: 5px 10px;
+    margin-left: 5%;
+}
+
+
+.button {
+    font-weight: 700;
+    text-decoration: none;
+    background-color: rgb(135, 226, 30);
+    color: rgb(4, 0, 7);
+    padding: 10px 20px;
+    border-radius: 25px;
+}
